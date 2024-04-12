@@ -106,6 +106,7 @@
 ### [Mentor]()
   - [Mr. Nilesh Gunaware Sir]()
 
-### [Special thanks]
-  - [To all who supported us throughout the journey]
+### [Special thanks]()
+  - [Mr. Hiranawale sir]()
+  - [To all who supported us throughout the journey]()
 
