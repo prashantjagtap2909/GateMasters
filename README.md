@@ -96,5 +96,16 @@
 ![image](https://github.com/prashantjagtap2909/GateMasters/assets/93985255/d1652d15-4157-48cd-82b6-86b7409962a7)
 ![image](https://github.com/prashantjagtap2909/GateMasters/assets/93985255/13171879-28a2-4b4a-99c3-c10533305189)
 
+-------------------------------------------------------------------------------------------------------------------------------------
+### [Group Members]
+  - [Prashant Jagtap](https://github.com/prashantjagtap2909)
+  - [Shubham Bhoite]()
+  - [Sham Machale]()
+  - [Shubham Mane]()
 
+### [Mentor]()
+  - [Mr. Nilesh Gunaware Sir]()
+
+### [Special thanks]
+  - [To all who supported us throughout the journey]
 
