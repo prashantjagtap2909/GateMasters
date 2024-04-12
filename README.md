@@ -69,6 +69,8 @@
 
 #### Add course
 ![image](https://github.com/prashantjagtap2909/GateMasters/assets/93985255/5dd34574-c3f7-4c22-ae71-fcc72b2e263e)
+![image](https://github.com/prashantjagtap2909/GateMasters/assets/93985255/7d806fde-23dc-40d4-8443-97b219a28bb2)
+
 
 #### Delete course
 ![image](https://github.com/prashantjagtap2909/GateMasters/assets/93985255/2ee0bcd9-9ecf-4606-b6a4-2264e5082d1c)
