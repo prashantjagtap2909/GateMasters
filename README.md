@@ -65,7 +65,7 @@
 
 #### Dashboard
 ![image](https://github.com/prashantjagtap2909/GateMasters/assets/93985255/33ae9abf-f087-4beb-a682-cee0f5c57941)
-![image](https://github.com/prashantjagtap2909/GateMasters/assets/93985255/173b0229-6d7c-454f-90ed-066ce01727e7)
+
 
 
 #### Instructor my courses section
