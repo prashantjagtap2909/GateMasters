@@ -1,9 +1,11 @@
 # GateMasters  [![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprashantjagtap2909%2FGateMasters&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[Live Demo](https://www.gatemasters.tech/)
+
+
 
 ### Home Page
 ![image](https://github.com/prashantjagtap2909/GateMasters/assets/93985255/acc11e45-1b82-49f0-9f58-fcc1b1e02d54)
-
 ![image](https://github.com/prashantjagtap2909/GateMasters/assets/93985255/ee67209a-5260-43f3-92fe-5fd2aaf972a7)
 ![image](https://github.com/prashantjagtap2909/GateMasters/assets/93985255/c17bfd7e-157b-4091-b19d-6a3cc6353952)
 ![image](https://github.com/prashantjagtap2909/GateMasters/assets/93985255/7114a4d0-f63f-45b0-ab2c-c4d50fe639e4)
@@ -63,6 +65,8 @@
 
 #### Dashboard
 ![image](https://github.com/prashantjagtap2909/GateMasters/assets/93985255/33ae9abf-f087-4beb-a682-cee0f5c57941)
+![image](https://github.com/prashantjagtap2909/GateMasters/assets/93985255/173b0229-6d7c-454f-90ed-066ce01727e7)
+
 
 #### Instructor my courses section
 ![image](https://github.com/prashantjagtap2909/GateMasters/assets/93985255/22f5f3f6-8208-4d3e-96d8-f5a42df61603)
@@ -70,6 +74,10 @@
 #### Add course
 ![image](https://github.com/prashantjagtap2909/GateMasters/assets/93985255/5dd34574-c3f7-4c22-ae71-fcc72b2e263e)
 ![image](https://github.com/prashantjagtap2909/GateMasters/assets/93985255/7d806fde-23dc-40d4-8443-97b219a28bb2)
+![image](https://github.com/prashantjagtap2909/GateMasters/assets/93985255/8d9df280-db00-4e57-a719-0b723cb69e93)
+![image](https://github.com/prashantjagtap2909/GateMasters/assets/93985255/ece587a7-7954-4a52-9db9-5db911de3d4a)
+
+
 
 
 #### Delete course
@@ -77,8 +85,6 @@
 
 #### Setting
 ![image](https://github.com/prashantjagtap2909/GateMasters/assets/93985255/a19d52e4-9d6c-4621-89ef-ce5ff2f97e7a)
-
-
 
 
 ##### Contact us
