@@ -99,7 +99,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------
 ### [Group Members]
   - [Prashant Jagtap](https://github.com/prashantjagtap2909)
-  - [Shubham Bhoite]()
+  - [Shubham Bhoite](https://github.com/Shubham-Bhoite)
   - [Sham Machale]()
   - [Shubham Mane]()
 
